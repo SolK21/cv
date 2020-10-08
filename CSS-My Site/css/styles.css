@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin: 0px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 4rem;
+  color: #213e3b;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Architects Daughter', cursive;
+  font-size: 1.25rem;
+  color: #213e3b;
+}
+
+h3 {
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+span {
+  font-family: 'Pacifico', cursive;
+}
+
+.sub-title {
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #41aea9;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.middle-container {}
+
+.bottom-container {}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
